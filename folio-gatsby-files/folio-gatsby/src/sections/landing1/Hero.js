@@ -31,7 +31,7 @@ const Hero = () => {
                   ILLUSTRATOR, GRAPHIC DESIGNER, TRAVELER
                 </Text>
                 <Title variant="hero">
-                  I design digital crafts for clients.
+                  Turo es un tipo medio raro
                 </Title>
 
                 <Box mt="52px">
@@ -50,7 +50,7 @@ const Hero = () => {
             <Col lg="5" md="8" sm="9">
               <div className="text-center text-lg-right position-relative">
                 <div className="img-main">
-                  <ImgRight src={imgL} alt="" />
+                  <ImgRight src={'https://img1.wsimg.com/isteam/ip/8e550308-8349-4079-a0e6-079afdaad486/tropi-letters.png/:/rs=h:364/qt=q:95/qt=q:1'} alt="" />
                 </div>
               </div>
             </Col>
